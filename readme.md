@@ -1,8 +1,6 @@
-Cara Runing
-1.npm i
-2.npm run dev
+cara running : npm run dev
 
-## Pastikan muncul pemberitahuan MongoDB Atlas Conected 
+## Pastikan muncul pemberitahuan MongoDB Atlas Connected 
 
 ============ ## Warehouse Transfer ## ==============
 ## 1.Add WarehouseTransfer To Database
